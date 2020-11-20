@@ -3,11 +3,11 @@ FIFA 20 FUT  Relisting Bot.
 
 It may work on FIFA 21 too
 
-This aloows you to relist all selling card every hour without need to get in a do it manually
+This allows you to relist all selling card every hour without need to get in the APP manually
 
 this rapository works on:
-  fifa 20
-  hotmail mail account to get the code from
+  fifa 20 (maybe 21 too)
+  hotmail  account to get the verification code from
   every Chrome version
   
   
