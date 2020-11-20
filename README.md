@@ -1,5 +1,6 @@
 # FUT20-Relisting-Bot
 FIFA 20 FUT  Relisting Bot
+It may work on FIFA 21 too
 
 This aloows you to relist all selling card every hour without need to get in a do it manually
 
